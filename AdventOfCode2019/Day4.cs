@@ -5,8 +5,13 @@ namespace AdventOfCode2019
 {
     public class Day4
     {
+        //Paul
         private const int StartRange = 123257;
         private const int EndRange = 647015;
+
+        //Dave
+        //private const int StartRange = 147981;
+        //private const int EndRange = 691423;
 
         public void Execute()
         {
