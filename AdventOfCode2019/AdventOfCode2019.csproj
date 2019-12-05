@@ -46,6 +46,7 @@
     <None Include="Day1Input.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <Compile Include="Day2.cs" />
     <Compile Include="Day1.cs" />
     <Compile Include="Day4.cs" />
     <Compile Include="Program.cs" />
